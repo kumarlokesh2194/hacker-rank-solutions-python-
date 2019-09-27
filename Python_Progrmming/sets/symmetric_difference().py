@@ -1,0 +1,13 @@
+m = int(input())
+m_values = list(map(int,input().split()))
+n = int(input())
+n_values = list(map(int,input().split()))
+set_m = set(m_values)
+set_n = set(n_values)
+diff1 = set_m.difference(set_n)
+diff2 = set_n.difference(set_m)
+sym_diff = diff1.union(diff2)
+sym_list = list(sym_diff)
+final_sym = sorted(sym_list)
+for i in final_sym:
+    print(i)
