@@ -1,4 +1,4 @@
 # Hacker_Rank_solutions
-Hello every one these are my solutions for hackers renk problems.
-I am strill solving the problem and will be updating other solutions time to time.
-Any change or suggestion for the code is highly apreciated.
+Hello every one these are my solutions for hacker rank problems.
+I am still solving the problems and will be updating other solutions time to time.
+Any change or suggestions for any code is highly apreciated.
